@@ -2,7 +2,7 @@
 $host = 'containers-us-west-150.railway.app';
 $dbname = 'railway';
 $username = 'root';
-$password = 'containers-us-west-150.railway.app';
+$password = 'NPahukgd1Eaw8snyqPcA';
 
 try {
   $bd = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $username, $password);
